@@ -1,6 +1,6 @@
 ## Homework
 
-![capysage](/photos/capysage.jpg)
+![capysage](/photos/capy_sage.jpg)
 _Sagely capy approves of this message_
 
 
